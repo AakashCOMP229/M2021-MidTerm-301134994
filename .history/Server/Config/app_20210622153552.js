@@ -3,7 +3,6 @@ Author's name: Aakash
 Student ID: 301134994
 Web App name: MidTerm Project - the Favourite Book List App
  */
-
 "use strict";
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;

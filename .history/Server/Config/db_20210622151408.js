@@ -1,9 +1,3 @@
-/* File name: app.css
-Author's name: Aakash
-Student ID: 301134994
-Web App name: MidTerm Project - the Favourite Book List App
- */
-
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Secret = exports.HostName = exports.RemoteURI = exports.LocalURI = void 0;

@@ -1,9 +1,3 @@
-/* File name: app.css
-Author's name: Aakash
-Student ID: 301134994
-Web App name: MidTerm Project - the Favourite Book List App
- */
-
 "use strict";
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
